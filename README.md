@@ -1,6 +1,4 @@
-Sure! Here’s an updated GitHub README file that incorporates your project details on test score insights using Tableau, MySQL, and Python:
 
----
 
 # Test Score Insights
 
